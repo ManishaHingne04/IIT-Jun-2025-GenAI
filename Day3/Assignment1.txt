@@ -1,0 +1,22 @@
+Problem Statement
+You want to build an interactive Career Guidance Assistant chatbot application using Streamlit that leverages a local language model (llama3 via ChatOllama). The chatbot must support three distinct roles:
+
+System Prompt[Role_Prompt]:
+
+1) Counselor: Provides career advice and guidance to students.
+
+2) Resume Advisor: Offers feedback on resume content and structure.
+
+3) Interview Coach: Gives mock interview questions, answers, and tips.
+
+
+The application should:
+
+Allow the user to select one of the three roles, which sets the chatbot’s behavior accordingly.
+
+Create prompt with system + user message
+
+Display the full conversation on the screen in a clear format.
+
+Provide a responsive and easy-to-use interface for users to ask questions relevant to the chosen role and get helpful answers.
+
