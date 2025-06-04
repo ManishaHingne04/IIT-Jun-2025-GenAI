@@ -1,5 +1,5 @@
 Problem Statement
-You want to build an interactive Career Guidance Assistant chatbot application using Streamlit that leverages a local language model (llama3 via ChatOllama). The chatbot must support three distinct roles:
+You want to build an interactive Career Guidance Assistant chatbot application using Streamlit and Flask that leverages a local language model (llama3 via ChatOllama). The chatbot must support three distinct roles:
 
 System Prompt[Role_Prompt]:
 
