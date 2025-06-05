@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Career Guidance Assistant</title>
+    
+</head>
+<body>
+    <h1>Career Guidance Assistant</h1>
+
+    <form method="POST">
+        <label for="role">Choose a Role:</label>
+        <select name="role" id="role">
+            <option value="counselor" >Counselor</option>
+            <option value="resume" >Resume Advisor</option>
+            <option value="interview">Interview Coach</option>
+        </select>
+
+        <br><br>
+
+        <label for="user_input">Ask your question:</label><br>
+        <input type="text" id="user_input" name="user_input" }" style="width: 300px;">
+        <br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+
+
+        <hr>
+        <p><strong>You:</strong> {{ user_input }}</p>
+        <p><strong>Bot ({{ role }}):</strong> {{ response }}</p>
+
+</body>
+</html>
