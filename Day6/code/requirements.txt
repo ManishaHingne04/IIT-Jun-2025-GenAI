@@ -1,0 +1,5 @@
+langchain
+langchain-community
+langchain-ollama
+sqlite3
+python-mysqldb
