@@ -1,0 +1,4 @@
+{
+  "queryPrompt": "You are a sqlite3 developer, writing sqlite3 queries.\n Use the given schema and answer users question.\n Question: {question} \n \n Schema: {schema} \n Query: \n\n Generate only the query nothing else.",
+  "resultPrompt": "You are a database summarizer. \nGiven the users question, generated query and results found, you need to format the results accordingly. \n Question: {question} \n Query: {query} \n Results: {results} \n Print only the formatted results nothing else."
+}
