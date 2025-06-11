@@ -1,0 +1,43 @@
+Question 1:
+
+Find all customers whose first name contains 'an'.
+ 
+Question 2:
+
+Find the products where the total price is greater than 10000000.
+
+
+Question 3:
+
+Find suppliers with a total commission greater than 50,000.
+
+
+Question 4:
+
+List all products, along with their supplier's name and department location.
+
+Question 5:
+
+Find all departments along with the total number of products they have.
+
+Question 6:
+Write a query that gives manager firstname, customers firstname, product name and supplier firstname for each product along with the product code.
+
+Question 7 :
+Find the names of managers who manage departments located in 'Posta'.
+
+
+
+Question 8:
+Find the departments managed by 'Steven Washokera'.
+
+
+
+Question 9:
+Write an SQL query to determine the 3rd highest salary of manager  without using TOP or limit method.
+
+
+Question 10:
+List all suppliers who do not supply any products with a price higher than 1000.
+
+ 
