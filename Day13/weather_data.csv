@@ -1,0 +1,51 @@
+City,Date,Temperature (C),Condition,Humidity (%)
+Delhi,2025-06-09,35.2,Cloudy,46
+Delhi,2025-06-08,32.0,Hazy,86
+Delhi,2025-06-07,13.8,Sunny,56
+Delhi,2025-06-06,17.4,Cloudy,61
+Delhi,2025-06-05,23.6,Rainy,78
+Mumbai,2025-06-09,26.5,Rainy,49
+Mumbai,2025-06-08,12.9,Snowy,54
+Mumbai,2025-06-07,25.4,Snowy,48
+Mumbai,2025-06-06,38.1,Hazy,89
+Mumbai,2025-06-05,10.7,Snowy,82
+New York,2025-06-09,28.9,Snowy,38
+New York,2025-06-08,39.9,Cloudy,63
+New York,2025-06-07,31.2,Sunny,36
+New York,2025-06-06,16.3,Snowy,55
+New York,2025-06-05,25.3,Hazy,68
+London,2025-06-09,18.6,Cloudy,78
+London,2025-06-08,17.4,Hazy,88
+London,2025-06-07,15.5,Hazy,83
+London,2025-06-06,24.4,Hazy,83
+London,2025-06-05,17.3,Sunny,67
+Beijing,2025-06-09,34.2,Rainy,63
+Beijing,2025-06-08,14.6,Snowy,82
+Beijing,2025-06-07,17.6,Hazy,38
+Beijing,2025-06-06,20.3,Sunny,41
+Beijing,2025-06-05,17.5,Snowy,62
+Paris,2025-06-09,21.3,Rainy,65
+Paris,2025-06-08,21.2,Sunny,60
+Paris,2025-06-07,29.6,Hazy,82
+Paris,2025-06-06,24.8,Sunny,44
+Paris,2025-06-05,19.5,Rainy,40
+Tokyo,2025-06-09,38.9,Sunny,59
+Tokyo,2025-06-08,16.9,Cloudy,35
+Tokyo,2025-06-07,20.2,Sunny,60
+Tokyo,2025-06-06,24.1,Hazy,50
+Tokyo,2025-06-05,29.9,Cloudy,34
+Sydney,2025-06-09,24.9,Rainy,40
+Sydney,2025-06-08,22.0,Snowy,36
+Sydney,2025-06-07,37.8,Sunny,74
+Sydney,2025-06-06,39.2,Cloudy,56
+Sydney,2025-06-05,26.8,Snowy,40
+Dubai,2025-06-09,20.7,Snowy,61
+Dubai,2025-06-08,25.4,Rainy,33
+Dubai,2025-06-07,11.5,Cloudy,48
+Dubai,2025-06-06,18.4,Sunny,42
+Dubai,2025-06-05,20.3,Sunny,53
+Toronto,2025-06-09,35.5,Rainy,35
+Toronto,2025-06-08,29.8,Sunny,61
+Toronto,2025-06-07,35.6,Hazy,37
+Toronto,2025-06-06,25.9,Cloudy,49
+Toronto,2025-06-05,22.6,Rainy,44

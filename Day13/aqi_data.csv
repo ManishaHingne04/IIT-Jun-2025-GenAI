@@ -1,0 +1,51 @@
+City,Date,AQI,Main Pollutant,Air Quality Status
+Delhi,2025-06-09,260,NO2,Hazardous
+Delhi,2025-06-08,66,PM2.5,Moderate
+Delhi,2025-06-07,64,PM10,Moderate
+Delhi,2025-06-06,44,O3,Good
+Delhi,2025-06-05,219,O3,Hazardous
+Mumbai,2025-06-09,232,NO2,Hazardous
+Mumbai,2025-06-08,115,PM10,Unhealthy
+Mumbai,2025-06-07,84,PM10,Moderate
+Mumbai,2025-06-06,158,NO2,Unhealthy
+Mumbai,2025-06-05,244,SO2,Hazardous
+New York,2025-06-09,141,PM10,Unhealthy
+New York,2025-06-08,170,NO2,Unhealthy
+New York,2025-06-07,228,SO2,Hazardous
+New York,2025-06-06,135,SO2,Unhealthy
+New York,2025-06-05,184,PM2.5,Unhealthy
+London,2025-06-09,43,O3,Good
+London,2025-06-08,47,PM2.5,Good
+London,2025-06-07,129,PM10,Unhealthy
+London,2025-06-06,228,NO2,Hazardous
+London,2025-06-05,172,PM2.5,Unhealthy
+Beijing,2025-06-09,194,SO2,Unhealthy
+Beijing,2025-06-08,144,SO2,Unhealthy
+Beijing,2025-06-07,172,NO2,Unhealthy
+Beijing,2025-06-06,267,PM2.5,Hazardous
+Beijing,2025-06-05,216,SO2,Hazardous
+Paris,2025-06-09,48,O3,Good
+Paris,2025-06-08,205,NO2,Hazardous
+Paris,2025-06-07,58,PM2.5,Moderate
+Paris,2025-06-06,103,PM2.5,Unhealthy
+Paris,2025-06-05,107,SO2,Unhealthy
+Tokyo,2025-06-09,284,PM2.5,Hazardous
+Tokyo,2025-06-08,102,O3,Unhealthy
+Tokyo,2025-06-07,203,PM2.5,Hazardous
+Tokyo,2025-06-06,176,SO2,Unhealthy
+Tokyo,2025-06-05,192,PM2.5,Unhealthy
+Sydney,2025-06-09,55,PM10,Moderate
+Sydney,2025-06-08,148,PM2.5,Unhealthy
+Sydney,2025-06-07,263,O3,Hazardous
+Sydney,2025-06-06,106,NO2,Unhealthy
+Sydney,2025-06-05,289,SO2,Hazardous
+Dubai,2025-06-09,113,SO2,Unhealthy
+Dubai,2025-06-08,243,SO2,Hazardous
+Dubai,2025-06-07,47,SO2,Good
+Dubai,2025-06-06,184,NO2,Unhealthy
+Dubai,2025-06-05,186,PM2.5,Unhealthy
+Toronto,2025-06-09,73,PM2.5,Moderate
+Toronto,2025-06-08,47,SO2,Good
+Toronto,2025-06-07,208,SO2,Hazardous
+Toronto,2025-06-06,96,NO2,Moderate
+Toronto,2025-06-05,158,NO2,Unhealthy
