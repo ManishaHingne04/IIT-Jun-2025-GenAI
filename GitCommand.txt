@@ -1,3 +1,18 @@
 git add .
 git commit -m "Comment"
 git push
+
+
+
+1)  py -3.10 -m venv crewenv
+2)  crewenv\Scripts\activate
+3)  python -m ipykernel install --user --name=crewenv --display-name "Python (crewenv)"
+4)  pip install --upgrade pip
+5)  pip install boto3
+6)  pip install --upgrade pip
+7)  pip install crewai==0.30.11 --no-deps
+8) pip install langchain langchain-community pydantic fastapi
+9) pip install langchain_openai
+10) pip install embedchain
+ 11) pip install crewai.tools
+12) pip install yfinance
