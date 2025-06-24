@@ -8,3 +8,17 @@
 
     
 table = wait.until(EC.visibility_of_element_located((By.XPATH, "//div[@id='collapseSix']//table")))
+
+
+or  other way
+
+
+from selenium.webdriver.common.action_chains import ActionChains
+
+plus_button = wait.until(EC.element_to_be_clickable((By.XPATH, "//a[@href='#collapseSix']")))
+
+# Move to the element
+ActionChains(driver).move_to_element(plus_button).perform()
+
+# Click the element
+plus_button.click()
