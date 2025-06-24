@@ -1,0 +1,10 @@
+ driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+ time.sleep(2)
+
+ plus_button = wait.until(EC.element_to_be_clickable((By.XPATH, "//a[@href='#collapseSix']")))
+ driver.execute_script("arguments[0].scrollIntoView(true);", plus_button)
+ time.sleep(1)
+ plus_button.click()
+
+    
+table = wait.until(EC.visibility_of_element_located((By.XPATH, "//div[@id='collapseSix']//table")))
